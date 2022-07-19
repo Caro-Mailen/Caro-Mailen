@@ -2,7 +2,7 @@
 <h3 align="center"> Full Stack developer de Argentina para el 🌎</h3>
 
 <div>
-<img width = "45%" align="left" alt="PIC" height="300px" src="https://img.freepik.com/premium-vector/software-development-web-coding-laptop-programming-concept-website-design-coding-remote-work-home_3482-5615.jpg?w=4000" />
+<img width = "50%" align="left" alt="PIC" height="300px" src="https://img.freepik.com/premium-vector/software-development-web-coding-laptop-programming-concept-website-design-coding-remote-work-home_3482-5615.jpg?w=2000" />
 <div align="right"> 
   <h3>🐱‍💻 Sobre Mi </h3>
   <p> Soy una persona curiosa, lo q me lleva a siempre estar queriendo saber mas del mundo q me rodea, como hacerlo un lugar mejor me impulsa a querer potenciarme tanto en lo personal como en lo profesional, soy responsable en lo q hago, empática, dinámica y proactiva.
