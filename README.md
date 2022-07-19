@@ -27,6 +27,15 @@ JavaScript | HTML | React | Redux | CSS modules | NodeJS | PostgreSQL | Sequeliz
   <p>
 </div> 
 
+<h3 align="left">Mi LinkedIn:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/carolina-guzman-570642212/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bryancamilopineda/" height="30" width="40" /></a>
+</p>
+
+## :pushpin: Mis Proyectos:
+
+
+
 <!--
 **Caro-Mailen/Caro-Mailen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
