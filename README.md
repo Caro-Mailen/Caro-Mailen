@@ -33,8 +33,8 @@ JavaScript | HTML | React | Redux | CSS modules | NodeJS | PostgreSQL | Sequeliz
 </p>
 
 ## :pushpin: Mis Proyectos:
-
-
+- 🐾[Patitas App]()
+- 🗺[Countries App]()
 
 <!--
 **Caro-Mailen/Caro-Mailen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
